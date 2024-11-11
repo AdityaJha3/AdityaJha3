@@ -15,9 +15,9 @@ Tools:            Git, VS Code, Postman
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaJha3&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=@AdityaJha3&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJha3&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=@AdityaJha3&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - Data Structures and Algorithms
