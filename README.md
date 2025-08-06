@@ -37,7 +37,7 @@ Tools:            Git, VS Code, Postman
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_Id_Aditya)
 
 ## 📫 How to reach me
-- 📧 Email: jaditya760.com
+- 📧 Email: jaditya760@gmail.com
 - 💼 LinkedIn: [Aditya Jha](https://www.linkedin.com/in/aditya-jha-4168512a1/)
 
 ---
